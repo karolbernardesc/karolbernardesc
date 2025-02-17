@@ -1,4 +1,3 @@
-# ![Banner](https://github.com/seu-usuario/seu-usuario/raw/main/banner.png)
 
 # 😎 OLÁ,EU SOU A KAROL!
 
@@ -22,11 +21,6 @@ Sou um Desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínu
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![WildFly](https://img.shields.io/badge/WildFly-%23007ACC.svg?style=for-the-badge&logo=wildfly&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📌 Projetos em Destaque
-
-- 📂 [**Projeto de Cadastro Web**](https://github.com/seu-usuario/projeto-cadastro) - Sistema de cadastro desenvolvido com Java EE e WildFly.
-- 📚 [**Livros React**](https://github.com/seu-usuario/livros-react) - Aplicação em React para gerenciamento de livros.
 
 
 

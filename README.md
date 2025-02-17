@@ -1,16 +1,13 @@
 
 # 😎 OLÁ,EU SOU A KAROL!
 
-**Estudante de Desenvolvimento Full Stack**
-
-Sou um Desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo. Atualmente, estudo e trabalho com **Java, Spring Boot, TypeScript, React, Next.js, APIs REST e SQL**.
+Sou apaixonada por tecnologia. Atualmente, estudo **Java, Spring Boot, TypeScript, React, Next.js, APIs REST e SQL**.
 
 ### 🚀 Sobre Mim
 - 🎓 **Estudante de Desenvolvimento Full Stack**
 - 🌱 Aprendendo **Next.js, Spring Boot e Microsserviços**
 - 🏆 Amante de desafios e código limpo
 - ✍️ Escrevo sobre tecnologia e desenvolvimento
-- 🔗 Confira meu [Portfólio]
 
 ### ⚡ Tecnologias & Ferramentas
 

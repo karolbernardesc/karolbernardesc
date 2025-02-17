@@ -1,8 +1,8 @@
 # ![Banner](https://github.com/seu-usuario/seu-usuario/raw/main/banner.png)
 
-# 😎 I'M KAROL!
+# 😎 OLÁ,EU SOU A KAROL!
 
-**Digital Craftsman (Developer / Programmer)**
+**Estudante de Desenvolvimento Full Stack**
 
 Sou um Desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo. Atualmente, estudo e trabalho com **Java, Spring Boot, TypeScript, React, Next.js, APIs REST e SQL**.
 
@@ -11,8 +11,7 @@ Sou um Desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínu
 - 🌱 Aprendendo **Next.js, Spring Boot e Microsserviços**
 - 🏆 Amante de desafios e código limpo
 - ✍️ Escrevo sobre tecnologia e desenvolvimento
-- 💡 Contribuindo para Open Source
-- 🔗 Confira meu [Portfólio](https://github.com/seu-usuario)
+- 🔗 Confira meu [Portfólio]
 
 ### ⚡ Tecnologias & Ferramentas
 
@@ -29,14 +28,6 @@ Sou um Desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínu
 - 📂 [**Projeto de Cadastro Web**](https://github.com/seu-usuario/projeto-cadastro) - Sistema de cadastro desenvolvido com Java EE e WildFly.
 - 📚 [**Livros React**](https://github.com/seu-usuario/livros-react) - Aplicação em React para gerenciamento de livros.
 
-### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
-
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 
 🚀 **Sempre aprendendo e evoluindo!**

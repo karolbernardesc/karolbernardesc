@@ -6,8 +6,6 @@ Sou apaixonada por tecnologia. Atualmente, estudo **Java, Spring Boot, TypeScrip
 ### 🚀 Sobre Mim
 - 🎓 **Estudante de Desenvolvimento Full Stack**
 - 🌱 Aprendendo **Next.js, Spring Boot e Microsserviços**
-- 🏆 Amante de desafios e código limpo
-- ✍️ Escrevo sobre tecnologia e desenvolvimento
 
 ### ⚡ Tecnologias & Ferramentas
 

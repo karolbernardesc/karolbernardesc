@@ -21,7 +21,8 @@ Sou apaixonada por tecnologia. Atualmente, estudo **Java, Spring Boot, TypeScrip
 
 🚀 **Sempre aprendendo e evoluindo!**
 
-https://github.com/karolbernardesc/karolbernardesc/blob/main/Untitled%20%E2%80%91%20Made%20with%20FlexClip.gif?raw=true
+![Meu GIF](https://raw.githubusercontent.com/karolbernardesc/karolbernardesc/main/meu-gif.gif)
+
 
 ![Snake animation](https://github.com/karolbernardesc/karolbernardesc/blob/output/github-contribution-grid-snake.svg)
 

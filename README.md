@@ -17,12 +17,11 @@ Sou apaixonada por tecnologia. Atualmente, estudo **Java, Spring Boot, TypeScrip
 ![WildFly](https://img.shields.io/badge/WildFly-%23007ACC.svg?style=for-the-badge&logo=wildfly&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Meu GIF](https://raw.githubusercontent.com/karolbernardesc/karolbernardesc/main/meu-gif.gif)
+![Meu GIF](https://github.com/karolbernardesc/karolbernardesc/blob/main/meu-gif.gif.gif?raw=true)
+
 
 
 🚀 **Sempre aprendendo e evoluindo!**
-
-![Meu GIF](https://raw.githubusercontent.com/karolbernardesc/karolbernardesc/main/meu-gif.gif)
 
 
 ![Snake animation](https://github.com/karolbernardesc/karolbernardesc/blob/output/github-contribution-grid-snake.svg)

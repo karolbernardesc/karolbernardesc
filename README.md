@@ -1,11 +1,10 @@
 
-# 😎 OLÁ,EU SOU A KAROL!
-
-Sou apaixonada por tecnologia. Atualmente, estudo **Java, Spring Boot, TypeScript, React, Next.js, APIs REST e SQL**.
+# 💬 OLÁ,EU SOU A KAROL!
+Apaixonada por tecnologia, jogos e inovação. Certificada em inglês pelo Cambridge e Cultura Inglesa.Formada em Arquitetura e Urbanismo, mas meu verdadeiro caminho é o desenvolvimento de software!
 
 ### 🚀 Sobre Mim
 - 🎓 **Estudante de Desenvolvimento Full Stack**
-- 🌱 Aprendendo **Next.js, Spring Boot e Microsserviços**
+- 👩‍💻 **Atualmente explorando desenvolvimento de software, aprofundando meus conhecimentos em SQL Server, NetBeans, Maven e servidores de aplicação, além de outras tecnologias que impulsionam aplicações modernas.**
 
 ### ⚡ Tecnologias & Ferramentas
 
@@ -21,7 +20,7 @@ Sou apaixonada por tecnologia. Atualmente, estudo **Java, Spring Boot, TypeScrip
 
 
 
-🚀 **Sempre aprendendo e evoluindo!**
+🏁 **Construindo conhecimento, uma linha de código por vez!**
 
 
 ![Snake animation](https://github.com/karolbernardesc/karolbernardesc/blob/output/github-contribution-grid-snake.svg)

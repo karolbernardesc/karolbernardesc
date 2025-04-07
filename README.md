@@ -4,7 +4,7 @@ Apaixonada por tecnologia, jogos e inovação. Certificada em inglês pelo Cambr
 
 ###  Sobre Mim
 - 🎓 **Estudante de Desenvolvimento Full Stack**
-- 👩‍💻 **Atualmente explorando desenvolvimento de software, aprofundando meus conhecimentos em SQL Server, NetBeans, Maven e servidores de aplicação, além de outras tecnologias que impulsionam aplicações modernas.**
+- 👩‍💻 **Atualmente explorando desenvolvimento de software, aprofundando meus conhecimentos em SQL Server, e NetBeans, além de outras tecnologias que impulsionam aplicações modernas.**
 
 ### ⚡ Tecnologias & Ferramentas
 

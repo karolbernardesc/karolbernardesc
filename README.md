@@ -1,6 +1,6 @@
 
 - **Estudante de Desenvolvimento Full Stack**
-- **Atualmente estágiando na Fundação FPFTech**
+- **Atualmente estagiando na Fundação FPFTech**
 
 ### ⚡ Tecnologias & Ferramentas que utilizo ;)
 

@@ -2,8 +2,6 @@
 - **Estudante de Desenvolvimento Full Stack**
 - **Atualmente estagiando na Fundação FPFTech**
 
-### ⚡ Tecnologias & Ferramentas que utilizo ;)
-
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
